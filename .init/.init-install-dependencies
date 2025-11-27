@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew dependencies",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-fullstack-application-178704-178713/tic_tac_toe_backend"
+}
